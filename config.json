@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "port": 25575,
+            "log_file": "C:\\Server\\logs\\latest.log"
+        },
+        {
+            "port": 25575,
+            "log_file": "C:\\Server\\logs\\latest.log"
+        }
+    ]
+}
